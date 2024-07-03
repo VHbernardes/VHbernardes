@@ -15,8 +15,7 @@
 
 ### I am a software engineering student at the University of Brasília.
 
-#### - 🥀 Learning Django <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/django/django.png"></code>, React.js <code><img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/react-js/react-js.png"></code>
-
+#### - 🥀 Learning Django <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/django/django.png"></code>
 <br />
 
 ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VHbernardes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
