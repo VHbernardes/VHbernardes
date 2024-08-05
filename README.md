@@ -1,4 +1,6 @@
 ### Hi there, I'm Victor Hugo Bernardes 👋
+### I am a software engineering student at the University of Brasília.
+<br/>
 
 <a href="https://x.com/vmousee__">
   <img align="left" alt="Victor's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -10,18 +12,15 @@
   <img align="left" alt="Victor's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<br />
-<br />
+<br/>
+<hr>
 
-### I am a software engineering student at the University of Brasília.
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=VHbernardes&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=0.5,000000,ff0000&hide_border=true&locale=pt-br" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VHbernardes&size_weight=0.5&count_weight=0.5&layout=donut&text_color=ffffff&title_color=ffffff&bg_color=0.5,ff0000,000000&hide_border=true&locale=pt-br" />
+</div>
 
-#### - 🥀 Learning Django <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/django/django.png"></code>
-<br />
-
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VHbernardes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VHbernardes&layout=compact&langs_count=8&theme=dark)](https://github.com/VHbernardes)
-
----
+<hr>
 
 ### Languages and Tools
 <p align="center">
@@ -35,9 +34,10 @@
 
 ### - About Me
 
+#### - 🥀 Learning Django <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/django/django.png"></code>
 - 🔭 I’m currently working on improving my skills in Django and React.
 - 🌱 I’m currently learning more about full-stack development.
 - 📫 How to reach me: [bernardesvictor2202@gmail.com](mailto:bernardesvictor2202@gmail.com)
 
----
+
 
