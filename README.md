@@ -43,7 +43,6 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VHbernardes&size_weight=0.5&count_weight=0.5&layout=donut&text_color=ffffff&title_color=ffffff&bg_color=0.5,ff0000,000000&hide_border=true&locale=pt-br" />
 </div>
 
-<hr>
 
 
 
