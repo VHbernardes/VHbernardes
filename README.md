@@ -3,7 +3,7 @@
 ## About Me
 
 ### - I am a software engineering student at the University of Brasília.
-#### - 🥀 Learning Django <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/django/django.png"></code>
+#### - 🥀 Learning Django <code>![Django](https://img.shields.io/badge/Django-green?style=flat-square&logo=django&logoColor=white)</code>
 - 🔭 I’m currently working on improving my skills in Django.
 - 🌱 I'm currently learning more about full-stack development with the aim of becoming a full-stack developer.
   
